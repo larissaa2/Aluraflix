@@ -44,10 +44,10 @@ p {
     opacity: 0.5;
     height: 200;
 }
-,.categoria-videos img: :hover {
-    opacity: 1,0;
-    border: 1px; solidcolor
+    .categoria-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid green;
 }
-,.categoria h2 {
+.categoria h2 {
     color:blue
 }
